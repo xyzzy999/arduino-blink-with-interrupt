@@ -1,6 +1,8 @@
 #include <WProgram.h>
 #include "arduino.h"
 
+
+// Kommentar
 /*
  * Schieberegister test
  */
